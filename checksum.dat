@@ -12,6 +12,7 @@ bc9f6b845cac8111a36facd77c92ce7a55d64b5c *./push.sh
 e4cacdfb0c19b6eced99ea2767aebf41a6527852 *./PylonBase_v6_1.dll
 9d4a3acd66f197b439282491770fdda1ddf809ed *./PylonCamEmu_v6_1_TL.dll
 aced0eed8ba75730fad0602d2ecb7fd44559246e *./PylonC_v6_1.dll
+24c88aa85fe53aece0e52826fc76a29a78534c69 *./PylonFirmwareUpdater.exe
 71359a294648af94555425dd7a4a8e95d4aef64f *./PylonGigE_v6_1_TL.dll
 2506cb1cad72f23a7245a8a1ab600e0f618c444c *./PylonGUI_v6_1.dll
 e25280bee594b24e7989a58482a850b9f71d45d8 *./PylonUsb_v6_1_TL.dll
